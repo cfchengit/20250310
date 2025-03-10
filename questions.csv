@@ -1,0 +1,6 @@
+question,option1,option2,option3,option4,correct,type
+請問1+1等於多少？,1,2,3,4,2,choice
+請問2+2等於多少？,2,3,4,5,4,choice
+請問3+2等於多少？,,,,,5,fill
+請問3+3等於多少？,6,3,4,5,6,choice
+請問4+2等於多少？,,,,,6,fill
